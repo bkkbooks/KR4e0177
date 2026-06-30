@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0177/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0177_WYG_000-1a, image: WYG1272/WYG1272-0285a.png}
+body:
+  text: 小山類稿别集類五明提要臣等謹案小山類稿二十巻明張岳撰岳字惟喬惠安人正徳丁丑進士官至刑部侍郎掌都察院事復出總督湖廣四川貴州卒諡襄惠事迹具明史本傳岳初授行人即以疏諫南廵廷杖調南京國子監學正嘉靖初牽復原官又以議禮忤張璁繼忤夏言忤嚴嵩父子而卒得以功名終若有天幸然其剛正之操天下推之集中奏議分行人司稿㢘州稿粤藩稿督撫鄖陽稿廵撫江西稿督撫兩廣稿總督湖廣川貴稿皆據其厯官年月次第編類雖文義樸直而經濟大業亦可據以考見又史稱岳博覧工文章經術湛深不喜王守仁考今觀集中草堂學則及諸書牘内辨學之語大都推闡切至歸於篤實近裏葢有體有用之言固與空談無根者異也乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:d2f8fe9cf9e0a99e87b87f1e8ce63983c7dff4ccbac546784bd5518a0c8b457d
+metadata:
+  title: 小山類稿
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:24:06.395630'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0177/KR4e0177_000.txt
+hash: sha256:5a1c6ab03a3bdab0533ba6ede2d8dd1e1428615c8536775240de8e67101828d2
